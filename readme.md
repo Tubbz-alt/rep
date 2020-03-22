@@ -7,3 +7,7 @@ If you release this on your town/business/whatever the fuck, I am not responsibl
 Note that this virus is not harmful on its own, but it __may significantly slow down the PC that it is running on, and will overwrite all data on the drives it is connected to.__
 
 This worm made by hyperbeamf. srz beniz
+
+## Note for contributors
+
+Please push all of your contributions to the `devel` branch rather than master.
