@@ -7,10 +7,8 @@ If you release this on your town/business/whatever the fuck, I am not responsibl
 Note that this worm is not harmful on its own, but it _may significantly slow down the PC that it is running on, and will overwrite all data on the drives it is connected to. (Atleast in concept, the actual infection mechanism is not implemented yet)_
 
 This worm made by hyperbeamf. srz beniz
-<<<<<<< HEAD
-=======
 
 ## Note for contributors
 
 Please push all of your contributions to the `devel` branch rather than master.
->>>>>>> f796507... Add gitignore and update readme
+
